@@ -5,7 +5,7 @@ metadata:
   namespace: istio-ingress
 spec:
   hosts:
-  - "lab.example.com"
+  - "lab.localhost"
   gateways:
   - http-gateway
   http:
